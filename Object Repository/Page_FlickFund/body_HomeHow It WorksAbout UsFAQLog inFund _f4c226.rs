@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>body_HomeHow It WorksAbout UsFAQLog inFund _f4c226</name>
+   <tag></tag>
+   <elementGuidId>c21897ef-3c8c-46fa-8dd8-363e509f9f1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>HomeHow It WorksAbout UsFAQLog inFund to get more.The platform to fund and raise Indonesia's SMEs'Fund AmountRpFund Period3 monthsInterest Rate10%ESTIMATED RETURNRp 10,250,000* PPh 15% not includedStart Investing!orGet a loanWhy fund on Joint ResponsibilityThe UMKM group will be jointly responsible for the loan. If there are MSMEs that cannot pay the loan, other MSMEs will pay them. This system significantly reduces the risk of your money being returned.Mutual FundsWe will manage your money with other investors’ money in a professional manner to then distribute it to a group of MSMEs. You can invest starting from _ with a much lower risk!SMEs is the priorityThe funds we receive will be prioritized for growth and development MSMEs in Indonesia.Start Investing!Fund with ease!1RegisterFollow our registration procedure, including verification of personal data2FundAfter funding has been verified, funds will be distributed immediately by our Asset Manager.3Get the return!You can monitor funding up to the tenor you have chosen, and get your return© 2020 PT Kreigan Kapital InvestamaTerms and Conditions|Frequently Asked Questions (FAQ){&quot;props&quot;:{&quot;isServer&quot;:true,&quot;initialState&quot;:{&quot;app&quot;:{&quot;view&quot;:{&quot;width&quot;:0,&quot;height&quot;:0},&quot;navbar&quot;:{&quot;expanded&quot;:false},&quot;unknownErrorOccured&quot;:false,&quot;isMobile&quot;:false,&quot;isTablet&quot;:false},&quot;auth&quot;:{&quot;role&quot;:&quot;LENDER&quot;,&quot;isRegisterModalOpen&quot;:false,&quot;isLoginModalOpen&quot;:false,&quot;isForgotPasswordModalOpen&quot;:false,&quot;isMessageModalOpen&quot;:false,&quot;currentRunningOperation&quot;:null,&quot;meta&quot;:{&quot;code&quot;:null,&quot;message&quot;:null}},&quot;account&quot;:{&quot;isMessageModalOpen&quot;:false,&quot;isEditProfileModalOpen&quot;:false,&quot;isChangePasswordModalOpen&quot;:false,&quot;currentRunningOperation&quot;:null,&quot;profile&quot;:null,&quot;lending&quot;:{&quot;list&quot;:null,&quot;selectedLending&quot;:null,&quot;tenor&quot;:null,&quot;amount&quot;:&quot;&quot;},&quot;borrow&quot;:{&quot;details&quot;:null,&quot;installment&quot;:null,&quot;paymentDetails&quot;:null},&quot;meta&quot;:{&quot;code&quot;:null,&quot;message&quot;:null}}},&quot;initialProps&quot;:{&quot;pageProps&quot;:{}}},&quot;page&quot;:&quot;/&quot;,&quot;query&quot;:{},&quot;buildId&quot;:&quot;lqd5rsiOCIpHe8OjdMAG3&quot;}id(&quot;menu-&quot;)/div[@class=&quot;MuiPaper-root MuiMenu-paper MuiPopover-paper MuiPaper-elevation8 MuiPaper-rounded&quot;]/ul[@class=&quot;MuiList-root MuiMenu-list MuiList-padding&quot;]/li[@class=&quot;MuiButtonBase-root MuiListItem-root MuiMenuItem-root MuiMenuItem-gutters MuiListItem-gutters MuiListItem-button&quot;]Register as FunderFull NameEmailPhone Number+62PasswordConfirm PasswordBank Account NumberBank Account NameBankChooseI agree to Terms and ConditionsAlready have an account ? LoginCreate AccountChooseBank AgrisBRI AgroniagaANZ IndonesiaBank Artha Graha InternasionalBank Artos IndonesiaBPD BaliBank Central AsiaBCA (Bank Central Asia) SyariahBank BengkuluMaybank IndonesiaBJBBJB SyariahBNI (Bank Negara Indonesia) dan BNI SyariahBank of China (Hong Kong) LimitedBank Rakyat IndonesiaBRI (Bank Rakyat Indonesia) SyariahBank Syariah MandiriBTN (Bank Tabungan Negara)BukopinBank Bumi ArtaBank Capital IndonesiaCTBC (Chinatrust) IndonesiaCIMB Niaga dan CIMB Niaga SyariahCitibankCommonwealth BankBPD DIYBank DanamonDBS IndonesiaBank DKI JakartaBank GaneshaKEB Hana Bank IndonesiaHSBC IndonesiaICBC IndonesiaBank Ina PerdanaBank Index SelindoBank of India IndonesiaBank JambiBank Jasa JakartaBank JatengBank JatimBank KalbarBank KalselBank KaltengBank KaltimBank Kesejahteraan EkonomiBank LampungBank MalukuBank MandiriBank Maspion IndonesiaBank MayapadaBank Mayora IndonesiaBank MegaBank Mega SyariahBank Mestika DharmaBank MNC InternasionalMuamalatNobu (Nationalnobu) BankBank NTBBank NTTBank Nusantara ParahyanganOCBC NISPPanin BankBank PapuaBank PermataQNB IndonesiaRabobank International IndonesiaBank Riau KepriBank Royal IndonesiaBank Sahabat SampoernaSBI IndonesiaBank SinarmasStandard Chartered BankBank SultengBank SultraBank SulselbarBank SulutGoBank Sumbar (Bank Nagari)Bank Sumsel BabelBank SumutBTPNBank of Tokyo Mitsubishi UFJUOB IndonesiaBank Victoria InternationalBank Woori Saudara</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body</value>
+   </webElementXpaths>
+</WebElementEntity>

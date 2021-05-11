@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Login_With_Valid_Data,Chrome 86.0.4240.198,,,2021-05-11 15:50:31,2021-05-11 15:50:42,11.250s,FAILED
+,,,,,,,
+Test Cases/Login_With_Valid_Data,Chrome 86.0.4240.198,,,2021-05-11 15:50:32,2021-05-11 15:50:42,9.745s,FAILED
+"openBrowser("""")",Chrome 86.0.4240.198,,,2021-05-11 15:50:33,2021-05-11 15:50:35,2.496s,PASSED
+"navigateToUrl(""https://fund.staging.flick.id/"")",Chrome 86.0.4240.198,,,2021-05-11 15:50:35,2021-05-11 15:50:41,5.343s,PASSED
+"click(findTestObject(""Object Repository/Page_FlickFund/button_Log in""))",Chrome 86.0.4240.198,,,2021-05-11 15:50:41,2021-05-11 15:50:42,1.316s,FAILED
